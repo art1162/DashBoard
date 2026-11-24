@@ -31,7 +31,8 @@ METRICS = (
 def chart_panel(graph_id, title):
     return html.Section([
         html.H2(title),
-        dcc.Graph(id=graph_id, figure=empty_figure(), config={"displaylogo": False}),
+        dcc.Graph(id=graph_id, figure=empty_figure(), responsive=True,
+                  config={"displaylogo": False, "modeBarButtonsToRemove": ["select2d", "lasso2d"]}),
     ], className=f"panel chart-panel {graph_id}")
 
 
@@ -42,6 +43,11 @@ def summary_panel():
         dash_table.DataTable(
             id="category-summary", data=[], sort_action="native", page_size=8,
             locale_format={"decimal": ",", "group": " ", "grouping": [3]},
+            style_table={"overflowX": "auto"},
+            style_cell={"padding": "0.7rem", "minWidth": "7rem", "fontFamily": "inherit",
+                        "fontSize": ".9rem", "borderColor": "#e8e0f1", "color": "#271d3e"},
+            style_cell_conditional=[{"if": {"column_id": "category"}, "textAlign": "left"}],
+            style_header={"backgroundColor": "#f5f1fc", "fontWeight": "600"},
             columns=[
                 {"name": "Категория", "id": "category"},
                 {"name": "Взносы, ₽", "id": "donation", "type": "numeric", "format": money},
@@ -56,13 +62,18 @@ def summary_panel():
 app.layout = html.Main([
     html.Header([
         html.H1("Вместе в школу"),
-        html.P("Дашборд адресной помощи школьникам"),
+        html.P("Аналитика взносов, закупок и выдачи школьных вещей семьям"),
     ], className="page-header"),
     html.Section([
         html.H2("Загрузка и фильтры"),
-        dcc.Upload(html.Button("Выбрать CSV", type="button"), id="csv-upload", accept=".csv"),
-        html.A("Скачать пример CSV", href="/example.csv", className="sample-link"),
-        html.Div("Ожидается CSV-файл.", id="upload-status", role="status"),
+        html.Div([
+            html.Div([
+                dcc.Upload(html.Button("Загрузить CSV", type="button", className="upload-button"),
+                           id="csv-upload", accept=".csv"),
+                html.A("Скачать пример CSV", href="/example.csv", className="sample-link"),
+            ], className="file-buttons"),
+            html.Div("Ожидается CSV-файл.", id="upload-status", role="status"),
+        ], className="file-actions"),
         html.Div([
             html.Div([
                 html.Label("Период", htmlFor="period"),
