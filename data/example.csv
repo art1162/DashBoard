@@ -1,0 +1,538 @@
+﻿date;position_id;category;channel;event;amount;quantity
+2026-04-07;P-0055;Творчество;personal;accepted;0;1
+2026-04-07;P-0078;Рюкзаки;sbp;donation;3010;0
+2026-04-09;P-0055;Творчество;personal;delivered;0;1
+2026-04-09;P-0153;Канцелярия;marketplace;accepted;0;1
+2026-04-10;P-0067;Творчество;sbp;donation;450;0
+2026-04-10;P-0078;Рюкзаки;sbp;purchase;3010;0
+2026-04-10;P-0114;Творчество;marketplace;accepted;0;1
+2026-04-11;P-0055;Творчество;personal;reported;0;0
+2026-04-12;P-0067;Творчество;sbp;donation;610;0
+2026-04-13;P-0049;Канцелярия;sbp;donation;730;0
+2026-04-14;P-0078;Рюкзаки;sbp;delivered;0;1
+2026-04-14;P-0153;Канцелярия;marketplace;delivered;0;1
+2026-04-15;P-0049;Канцелярия;sbp;purchase;730;0
+2026-04-15;P-0067;Творчество;sbp;purchase;1060;0
+2026-04-15;P-0153;Канцелярия;marketplace;reported;0;0
+2026-04-17;P-0078;Рюкзаки;sbp;reported;0;0
+2026-04-17;P-0114;Творчество;marketplace;delivered;0;1
+2026-04-18;P-0114;Творчество;marketplace;reported;0;0
+2026-04-20;P-0049;Канцелярия;sbp;delivered;0;1
+2026-04-20;P-0163;Школьная форма;personal;accepted;0;3
+2026-04-21;P-0067;Творчество;sbp;delivered;0;1
+2026-04-24;P-0067;Творчество;sbp;reported;0;0
+2026-04-26;P-0163;Школьная форма;personal;delivered;0;3
+2026-04-28;P-0163;Школьная форма;personal;reported;0;0
+2026-05-07;P-0051;Обувь;marketplace;accepted;0;1
+2026-05-11;P-0161;Школьная форма;marketplace;accepted;0;2
+2026-05-12;P-0051;Обувь;marketplace;delivered;0;1
+2026-05-13;P-0013;Творчество;personal;accepted;0;3
+2026-05-16;P-0013;Творчество;personal;delivered;0;3
+2026-05-16;P-0051;Обувь;marketplace;reported;0;0
+2026-05-18;P-0013;Творчество;personal;reported;0;0
+2026-05-18;P-0161;Школьная форма;marketplace;delivered;0;2
+2026-05-19;P-0007;Творчество;sbp;donation;250;0
+2026-05-20;P-0025;Канцелярия;personal;accepted;0;1
+2026-05-20;P-0102;Рюкзаки;sbp;donation;1400;0
+2026-05-20;P-0119;Творчество;sbp;donation;1300;0
+2026-05-20;P-0161;Школьная форма;marketplace;reported;0;0
+2026-05-21;P-0115;Канцелярия;personal;accepted;0;1
+2026-05-22;P-0164;Школьная форма;marketplace;accepted;0;1
+2026-05-23;P-0119;Творчество;sbp;donation;1620;0
+2026-05-23;P-0164;Школьная форма;marketplace;delivered;0;1
+2026-05-25;P-0119;Творчество;sbp;purchase;2920;0
+2026-05-27;P-0007;Творчество;sbp;donation;390;0
+2026-05-27;P-0102;Рюкзаки;sbp;donation;1690;0
+2026-05-29;P-0119;Творчество;sbp;delivered;0;2
+2026-05-30;P-0007;Творчество;sbp;purchase;640;0
+2026-05-30;P-0119;Творчество;sbp;reported;0;0
+2026-05-31;P-0007;Творчество;sbp;delivered;0;1
+2026-05-31;P-0102;Рюкзаки;sbp;purchase;3090;0
+2026-06-03;P-0007;Творчество;sbp;reported;0;0
+2026-06-06;P-0102;Рюкзаки;sbp;delivered;0;1
+2026-06-09;P-0102;Рюкзаки;sbp;reported;0;0
+2026-06-14;P-0130;Обувь;sbp;donation;1750;0
+2026-06-16;P-0145;Школьная форма;marketplace;accepted;0;1
+2026-06-17;P-0084;Школьная форма;marketplace;accepted;0;1
+2026-06-18;P-0003;Творчество;sbp;donation;600;0
+2026-06-20;P-0003;Творчество;sbp;donation;760;0
+2026-06-21;P-0144;Обувь;sbp;donation;1400;0
+2026-06-22;P-0103;Обувь;marketplace;accepted;0;1
+2026-06-22;P-0130;Обувь;sbp;donation;2130;0
+2026-06-23;P-0003;Творчество;sbp;purchase;1360;0
+2026-06-23;P-0130;Обувь;sbp;purchase;3880;0
+2026-06-23;P-0149;Школьная форма;personal;accepted;0;2
+2026-06-24;P-0059;Канцелярия;marketplace;accepted;0;1
+2026-06-24;P-0084;Школьная форма;marketplace;delivered;0;1
+2026-06-26;P-0103;Обувь;marketplace;delivered;0;1
+2026-06-26;P-0130;Обувь;sbp;delivered;0;2
+2026-06-27;P-0084;Школьная форма;marketplace;reported;0;0
+2026-06-27;P-0103;Обувь;marketplace;reported;0;0
+2026-06-27;P-0144;Обувь;sbp;donation;1690;0
+2026-06-28;P-0003;Творчество;sbp;delivered;0;1
+2026-06-28;P-0059;Канцелярия;marketplace;delivered;0;1
+2026-06-29;P-0130;Обувь;sbp;reported;0;0
+2026-06-29;P-0149;Школьная форма;personal;delivered;0;2
+2026-06-30;P-0144;Обувь;sbp;purchase;3090;0
+2026-06-30;P-0149;Школьная форма;personal;reported;0;0
+2026-07-03;P-0090;Рюкзаки;sbp;donation;1350;0
+2026-07-03;P-0117;Школьная форма;marketplace;accepted;0;1
+2026-07-03;P-0144;Обувь;sbp;delivered;0;1
+2026-07-04;P-0117;Школьная форма;marketplace;delivered;0;1
+2026-07-04;P-0142;Обувь;marketplace;accepted;0;1
+2026-07-05;P-0150;Школьная форма;sbp;donation;5440;0
+2026-07-07;P-0105;Рюкзаки;marketplace;accepted;0;3
+2026-07-07;P-0144;Обувь;sbp;reported;0;0
+2026-07-07;P-0150;Школьная форма;sbp;purchase;5440;0
+2026-07-08;P-0105;Рюкзаки;marketplace;delivered;0;3
+2026-07-08;P-0142;Обувь;marketplace;delivered;0;1
+2026-07-09;P-0074;Канцелярия;sbp;donation;1770;0
+2026-07-09;P-0142;Обувь;marketplace;reported;0;0
+2026-07-11;P-0079;Обувь;sbp;donation;1740;0
+2026-07-12;P-0014;Канцелярия;sbp;donation;1040;0
+2026-07-12;P-0152;Канцелярия;personal;accepted;0;1
+2026-07-13;P-0074;Канцелярия;sbp;purchase;1770;0
+2026-07-13;P-0082;Школьная форма;personal;accepted;0;1
+2026-07-13;P-0155;Обувь;sbp;donation;1400;0
+2026-07-14;P-0002;Рюкзаки;sbp;donation;2750;0
+2026-07-14;P-0082;Школьная форма;personal;delivered;0;1
+2026-07-14;P-0093;Творчество;marketplace;accepted;0;1
+2026-07-14;P-0150;Школьная форма;sbp;delivered;0;2
+2026-07-15;P-0052;Школьная форма;marketplace;accepted;0;2
+2026-07-15;P-0079;Обувь;sbp;purchase;1740;0
+2026-07-15;P-0093;Творчество;marketplace;delivered;0;1
+2026-07-16;P-0008;Школьная форма;sbp;donation;1100;0
+2026-07-16;P-0074;Канцелярия;sbp;delivered;0;3
+2026-07-16;P-0079;Обувь;sbp;delivered;0;1
+2026-07-16;P-0082;Школьная форма;personal;reported;0;0
+2026-07-16;P-0110;Творчество;personal;accepted;0;1
+2026-07-16;P-0136;Канцелярия;marketplace;accepted;0;1
+2026-07-16;P-0150;Школьная форма;sbp;reported;0;0
+2026-07-16;P-0155;Обувь;sbp;donation;1760;0
+2026-07-17;P-0014;Канцелярия;sbp;purchase;1040;0
+2026-07-17;P-0052;Школьная форма;marketplace;delivered;0;2
+2026-07-17;P-0074;Канцелярия;sbp;reported;0;0
+2026-07-17;P-0075;Рюкзаки;sbp;donation;1950;0
+2026-07-17;P-0093;Творчество;marketplace;reported;0;0
+2026-07-17;P-0143;Школьная форма;sbp;donation;2740;0
+2026-07-18;P-0052;Школьная форма;marketplace;reported;0;0
+2026-07-18;P-0083;Школьная форма;sbp;donation;3300;0
+2026-07-18;P-0136;Канцелярия;marketplace;delivered;0;1
+2026-07-18;P-0143;Школьная форма;sbp;purchase;2740;0
+2026-07-18;P-0152;Канцелярия;personal;delivered;0;1
+2026-07-19;P-0022;Обувь;sbp;donation;1200;0
+2026-07-19;P-0079;Обувь;sbp;reported;0;0
+2026-07-19;P-0136;Канцелярия;marketplace;reported;0;0
+2026-07-19;P-0143;Школьная форма;sbp;delivered;0;1
+2026-07-19;P-0155;Обувь;sbp;purchase;3160;0
+2026-07-20;P-0143;Школьная форма;sbp;reported;0;0
+2026-07-21;P-0002;Рюкзаки;sbp;donation;3310;0
+2026-07-21;P-0028;Обувь;sbp;donation;1350;0
+2026-07-21;P-0081;Школьная форма;personal;accepted;0;1
+2026-07-21;P-0110;Творчество;personal;delivered;0;1
+2026-07-21;P-0152;Канцелярия;personal;reported;0;0
+2026-07-22;P-0014;Канцелярия;sbp;delivered;0;1
+2026-07-22;P-0022;Обувь;sbp;donation;1520;0
+2026-07-22;P-0110;Творчество;personal;reported;0;0
+2026-07-23;P-0002;Рюкзаки;sbp;purchase;6060;0
+2026-07-23;P-0008;Школьная форма;sbp;donation;1350;0
+2026-07-24;P-0002;Рюкзаки;sbp;delivered;0;2
+2026-07-24;P-0030;Канцелярия;personal;accepted;0;1
+2026-07-24;P-0075;Рюкзаки;sbp;donation;2350;0
+2026-07-25;P-0008;Школьная форма;sbp;purchase;2450;0
+2026-07-26;P-0002;Рюкзаки;sbp;reported;0;0
+2026-07-26;P-0014;Канцелярия;sbp;reported;0;0
+2026-07-26;P-0155;Обувь;sbp;delivered;0;1
+2026-07-27;P-0022;Обувь;sbp;purchase;2720;0
+2026-07-27;P-0075;Рюкзаки;sbp;purchase;4300;0
+2026-07-28;P-0008;Школьная форма;sbp;delivered;0;1
+2026-07-28;P-0081;Школьная форма;personal;delivered;0;1
+2026-07-29;P-0028;Обувь;sbp;donation;1700;0
+2026-07-29;P-0075;Рюкзаки;sbp;delivered;0;2
+2026-07-29;P-0081;Школьная форма;personal;reported;0;0
+2026-07-30;P-0155;Обувь;sbp;reported;0;0
+2026-07-31;P-0030;Канцелярия;personal;delivered;0;1
+2026-08-01;P-0022;Обувь;sbp;delivered;0;1
+2026-08-01;P-0070;Школьная форма;sbp;donation;4400;0
+2026-08-01;P-0075;Рюкзаки;sbp;reported;0;0
+2026-08-01;P-0138;Рюкзаки;sbp;donation;1250;0
+2026-08-02;P-0028;Обувь;sbp;purchase;3050;0
+2026-08-03;P-0034;Рюкзаки;sbp;donation;1250;0
+2026-08-03;P-0128;Творчество;marketplace;accepted;0;1
+2026-08-04;P-0022;Обувь;sbp;reported;0;0
+2026-08-04;P-0030;Канцелярия;personal;reported;0;0
+2026-08-04;P-0053;Обувь;marketplace;accepted;0;1
+2026-08-04;P-0070;Школьная форма;sbp;donation;5350;0
+2026-08-04;P-0072;Рюкзаки;sbp;donation;1910;0
+2026-08-05;P-0028;Обувь;sbp;delivered;0;1
+2026-08-05;P-0063;Канцелярия;marketplace;accepted;0;1
+2026-08-05;P-0070;Школьная форма;sbp;purchase;9750;0
+2026-08-06;P-0053;Обувь;marketplace;delivered;0;1
+2026-08-06;P-0072;Рюкзаки;sbp;purchase;1910;0
+2026-08-06;P-0104;Школьная форма;sbp;donation;1850;0
+2026-08-06;P-0154;Канцелярия;marketplace;accepted;0;1
+2026-08-07;P-0005;Рюкзаки;personal;accepted;0;1
+2026-08-07;P-0053;Обувь;marketplace;reported;0;0
+2026-08-07;P-0054;Канцелярия;marketplace;accepted;0;1
+2026-08-08;P-0006;Творчество;sbp;donation;300;0
+2026-08-08;P-0034;Рюкзаки;sbp;donation;1510;0
+2026-08-08;P-0037;Школьная форма;sbp;donation;2700;0
+2026-08-08;P-0050;Канцелярия;personal;accepted;0;1
+2026-08-08;P-0070;Школьная форма;sbp;delivered;0;3
+2026-08-08;P-0104;Школьная форма;sbp;donation;2290;0
+2026-08-08;P-0118;Канцелярия;marketplace;accepted;0;1
+2026-08-08;P-0128;Творчество;marketplace;delivered;0;1
+2026-08-09;P-0028;Обувь;sbp;reported;0;0
+2026-08-09;P-0070;Школьная форма;sbp;reported;0;0
+2026-08-09;P-0138;Рюкзаки;sbp;donation;1590;0
+2026-08-10;P-0011;Школьная форма;sbp;donation;1400;0
+2026-08-10;P-0045;Школьная форма;personal;accepted;0;1
+2026-08-10;P-0057;Школьная форма;sbp;donation;3600;0
+2026-08-10;P-0063;Канцелярия;marketplace;delivered;0;1
+2026-08-10;P-0094;Канцелярия;sbp;donation;550;0
+2026-08-10;P-0128;Творчество;marketplace;reported;0;0
+2026-08-10;P-0159;Рюкзаки;sbp;donation;1350;0
+2026-08-10;P-0160;Школьная форма;sbp;donation;1300;0
+2026-08-11;P-0006;Творчество;sbp;donation;380;0
+2026-08-11;P-0017;Творчество;personal;accepted;0;2
+2026-08-11;P-0020;Школьная форма;sbp;donation;1950;0
+2026-08-11;P-0129;Канцелярия;marketplace;accepted;0;3
+2026-08-12;P-0023;Канцелярия;personal;accepted;0;1
+2026-08-12;P-0044;Творчество;personal;accepted;0;1
+2026-08-12;P-0072;Рюкзаки;sbp;delivered;0;1
+2026-08-12;P-0088;Творчество;personal;accepted;0;1
+2026-08-12;P-0094;Канцелярия;sbp;donation;730;0
+2026-08-12;P-0099;Обувь;sbp;donation;1050;0
+2026-08-12;P-0129;Канцелярия;marketplace;delivered;0;3
+2026-08-13;P-0034;Рюкзаки;sbp;purchase;2760;0
+2026-08-13;P-0045;Школьная форма;personal;delivered;0;1
+2026-08-13;P-0063;Канцелярия;marketplace;reported;0;0
+2026-08-13;P-0104;Школьная форма;sbp;purchase;4140;0
+2026-08-13;P-0127;Обувь;sbp;donation;3580;0
+2026-08-14;P-0005;Рюкзаки;personal;delivered;0;1
+2026-08-14;P-0006;Творчество;sbp;purchase;680;0
+2026-08-14;P-0043;Канцелярия;sbp;donation;300;0
+2026-08-14;P-0050;Канцелярия;personal;delivered;0;1
+2026-08-14;P-0054;Канцелярия;marketplace;delivered;0;1
+2026-08-14;P-0060;Школьная форма;sbp;donation;4000;0
+2026-08-14;P-0061;Канцелярия;personal;accepted;0;1
+2026-08-14;P-0080;Обувь;sbp;donation;1150;0
+2026-08-14;P-0100;Обувь;personal;accepted;0;1
+2026-08-14;P-0125;Канцелярия;sbp;donation;250;0
+2026-08-14;P-0129;Канцелярия;marketplace;reported;0;0
+2026-08-14;P-0137;Рюкзаки;sbp;donation;2860;0
+2026-08-14;P-0138;Рюкзаки;sbp;purchase;2840;0
+2026-08-14;P-0148;Обувь;personal;accepted;0;1
+2026-08-14;P-0157;Школьная форма;sbp;donation;1150;0
+2026-08-15;P-0001;Рюкзаки;marketplace;accepted;0;1
+2026-08-15;P-0005;Рюкзаки;personal;reported;0;0
+2026-08-15;P-0040;Школьная форма;marketplace;accepted;0;1
+2026-08-15;P-0071;Обувь;sbp;donation;3780;0
+2026-08-15;P-0072;Рюкзаки;sbp;reported;0;0
+2026-08-15;P-0080;Обувь;sbp;donation;1390;0
+2026-08-15;P-0125;Канцелярия;sbp;donation;390;0
+2026-08-15;P-0139;Творчество;sbp;donation;300;0
+2026-08-15;P-0159;Рюкзаки;sbp;donation;1710;0
+2026-08-15;P-0160;Школьная форма;sbp;donation;1580;0
+2026-08-16;P-0001;Рюкзаки;marketplace;delivered;0;1
+2026-08-16;P-0023;Канцелярия;personal;delivered;0;1
+2026-08-16;P-0044;Творчество;personal;delivered;0;1
+2026-08-16;P-0057;Школьная форма;sbp;donation;4420;0
+2026-08-16;P-0060;Школьная форма;sbp;donation;4820;0
+2026-08-16;P-0094;Канцелярия;sbp;purchase;1280;0
+2026-08-16;P-0099;Обувь;sbp;donation;1270;0
+2026-08-16;P-0100;Обувь;personal;delivered;0;1
+2026-08-16;P-0104;Школьная форма;sbp;delivered;0;1
+2026-08-16;P-0108;Рюкзаки;marketplace;accepted;0;1
+2026-08-16;P-0127;Обувь;sbp;purchase;3580;0
+2026-08-16;P-0137;Рюкзаки;sbp;purchase;2860;0
+2026-08-16;P-0140;Обувь;sbp;donation;800;0
+2026-08-17;P-0006;Творчество;sbp;delivered;0;1
+2026-08-17;P-0011;Школьная форма;sbp;donation;1700;0
+2026-08-17;P-0020;Школьная форма;sbp;donation;2410;0
+2026-08-17;P-0043;Канцелярия;sbp;donation;380;0
+2026-08-17;P-0045;Школьная форма;personal;reported;0;0
+2026-08-17;P-0057;Школьная форма;sbp;purchase;8020;0
+2026-08-17;P-0097;Рюкзаки;marketplace;accepted;0;1
+2026-08-17;P-0120;Творчество;sbp;donation;750;0
+2026-08-17;P-0125;Канцелярия;sbp;purchase;640;0
+2026-08-17;P-0159;Рюкзаки;sbp;purchase;3060;0
+2026-08-17;P-0160;Школьная форма;sbp;purchase;2880;0
+2026-08-18;P-0015;Обувь;marketplace;accepted;0;1
+2026-08-18;P-0017;Творчество;personal;delivered;0;2
+2026-08-18;P-0026;Рюкзаки;personal;accepted;0;1
+2026-08-18;P-0050;Канцелярия;personal;reported;0;0
+2026-08-18;P-0071;Обувь;sbp;purchase;3780;0
+2026-08-18;P-0076;Рюкзаки;personal;accepted;0;1
+2026-08-18;P-0095;Рюкзаки;sbp;donation;2670;0
+2026-08-18;P-0140;Обувь;sbp;donation;1060;0
+2026-08-18;P-0146;Обувь;marketplace;accepted;0;1
+2026-08-19;P-0035;Рюкзаки;marketplace;accepted;0;2
+2026-08-19;P-0043;Канцелярия;sbp;purchase;680;0
+2026-08-19;P-0080;Обувь;sbp;purchase;2540;0
+2026-08-19;P-0088;Творчество;personal;delivered;0;1
+2026-08-19;P-0097;Рюкзаки;marketplace;delivered;0;1
+2026-08-19;P-0104;Школьная форма;sbp;reported;0;0
+2026-08-19;P-0137;Рюкзаки;sbp;delivered;0;1
+2026-08-19;P-0139;Творчество;sbp;donation;390;0
+2026-08-19;P-0146;Обувь;marketplace;delivered;0;1
+2026-08-19;P-0148;Обувь;personal;delivered;0;1
+2026-08-20;P-0004;Обувь;sbp;donation;1300;0
+2026-08-20;P-0006;Творчество;sbp;reported;0;0
+2026-08-20;P-0015;Обувь;marketplace;delivered;0;1
+2026-08-20;P-0017;Творчество;personal;reported;0;0
+2026-08-20;P-0020;Школьная форма;sbp;purchase;4360;0
+2026-08-20;P-0023;Канцелярия;personal;reported;0;0
+2026-08-20;P-0038;Творчество;sbp;donation;650;0
+2026-08-20;P-0040;Школьная форма;marketplace;delivered;0;1
+2026-08-20;P-0044;Творчество;personal;reported;0;0
+2026-08-20;P-0060;Школьная форма;sbp;purchase;8820;0
+2026-08-20;P-0061;Канцелярия;personal;delivered;0;1
+2026-08-20;P-0076;Рюкзаки;personal;delivered;0;1
+2026-08-20;P-0099;Обувь;sbp;purchase;2320;0
+2026-08-20;P-0100;Обувь;personal;reported;0;0
+2026-08-20;P-0109;Рюкзаки;sbp;donation;850;0
+2026-08-20;P-0127;Обувь;sbp;delivered;0;1
+2026-08-21;P-0069;Рюкзаки;personal;accepted;0;1
+2026-08-21;P-0097;Рюкзаки;marketplace;reported;0;0
+2026-08-21;P-0098;Канцелярия;personal;accepted;0;2
+2026-08-21;P-0099;Обувь;sbp;delivered;0;1
+2026-08-21;P-0137;Рюкзаки;sbp;reported;0;0
+2026-08-21;P-0140;Обувь;sbp;purchase;1860;0
+2026-08-21;P-0146;Обувь;marketplace;reported;0;0
+2026-08-21;P-0148;Обувь;personal;reported;0;0
+2026-08-21;P-0156;Школьная форма;marketplace;accepted;0;2
+2026-08-21;P-0157;Школьная форма;sbp;donation;1400;0
+2026-08-22;P-0011;Школьная форма;sbp;purchase;3100;0
+2026-08-22;P-0020;Школьная форма;sbp;delivered;0;2
+2026-08-22;P-0076;Рюкзаки;personal;reported;0;0
+2026-08-22;P-0086;Школьная форма;sbp;donation;1700;0
+2026-08-22;P-0088;Творчество;personal;reported;0;0
+2026-08-22;P-0095;Рюкзаки;sbp;purchase;2670;0
+2026-08-22;P-0107;Обувь;personal;accepted;0;1
+2026-08-22;P-0109;Рюкзаки;sbp;donation;1110;0
+2026-08-22;P-0156;Школьная форма;marketplace;delivered;0;2
+2026-08-23;P-0011;Школьная форма;sbp;delivered;0;1
+2026-08-23;P-0061;Канцелярия;personal;reported;0;0
+2026-08-23;P-0113;Школьная форма;marketplace;accepted;0;1
+2026-08-23;P-0125;Канцелярия;sbp;delivered;0;1
+2026-08-23;P-0151;Школьная форма;marketplace;accepted;0;1
+2026-08-23;P-0157;Школьная форма;sbp;purchase;2550;0
+2026-08-23;P-0159;Рюкзаки;sbp;delivered;0;2
+2026-08-23;P-0160;Школьная форма;sbp;delivered;0;1
+2026-08-24;P-0020;Школьная форма;sbp;reported;0;0
+2026-08-24;P-0027;Рюкзаки;personal;accepted;0;1
+2026-08-24;P-0035;Рюкзаки;marketplace;delivered;0;2
+2026-08-24;P-0040;Школьная форма;marketplace;reported;0;0
+2026-08-24;P-0060;Школьная форма;sbp;delivered;0;2
+2026-08-24;P-0113;Школьная форма;marketplace;delivered;0;1
+2026-08-24;P-0127;Обувь;sbp;reported;0;0
+2026-08-24;P-0139;Творчество;sbp;purchase;690;0
+2026-08-24;P-0162;Школьная форма;personal;accepted;0;1
+2026-08-25;P-0026;Рюкзаки;personal;delivered;0;1
+2026-08-25;P-0071;Обувь;sbp;delivered;0;2
+2026-08-25;P-0080;Обувь;sbp;delivered;0;1
+2026-08-25;P-0095;Рюкзаки;sbp;delivered;0;1
+2026-08-25;P-0098;Канцелярия;personal;delivered;0;2
+2026-08-25;P-0099;Обувь;sbp;reported;0;0
+2026-08-25;P-0107;Обувь;personal;delivered;0;1
+2026-08-25;P-0140;Обувь;sbp;delivered;0;1
+2026-08-25;P-0156;Школьная форма;marketplace;reported;0;0
+2026-08-25;P-0157;Школьная форма;sbp;delivered;0;1
+2026-08-26;P-0043;Канцелярия;sbp;delivered;0;1
+2026-08-26;P-0098;Канцелярия;personal;reported;0;0
+2026-08-26;P-0109;Рюкзаки;sbp;purchase;1960;0
+2026-08-26;P-0113;Школьная форма;marketplace;reported;0;0
+2026-08-26;P-0159;Рюкзаки;sbp;reported;0;0
+2026-08-26;P-0160;Школьная форма;sbp;reported;0;0
+2026-08-26;P-0162;Школьная форма;personal;delivered;0;1
+2026-08-27;P-0026;Рюкзаки;personal;reported;0;0
+2026-08-27;P-0060;Школьная форма;sbp;reported;0;0
+2026-08-27;P-0071;Обувь;sbp;reported;0;0
+2026-08-27;P-0086;Школьная форма;sbp;donation;2070;0
+2026-08-27;P-0107;Обувь;personal;reported;0;0
+2026-08-27;P-0162;Школьная форма;personal;reported;0;0
+2026-08-28;P-0027;Рюкзаки;personal;delivered;0;1
+2026-08-28;P-0035;Рюкзаки;marketplace;reported;0;0
+2026-08-28;P-0038;Творчество;sbp;donation;870;0
+2026-08-28;P-0069;Рюкзаки;personal;delivered;0;1
+2026-08-28;P-0080;Обувь;sbp;reported;0;0
+2026-08-28;P-0086;Школьная форма;sbp;purchase;3770;0
+2026-08-29;P-0027;Рюкзаки;personal;reported;0;0
+2026-08-29;P-0043;Канцелярия;sbp;reported;0;0
+2026-08-29;P-0139;Творчество;sbp;delivered;0;1
+2026-08-29;P-0151;Школьная форма;marketplace;delivered;0;1
+2026-08-29;P-0157;Школьная форма;sbp;reported;0;0
+2026-08-30;P-0038;Творчество;sbp;purchase;1520;0
+2026-08-30;P-0086;Школьная форма;sbp;delivered;0;1
+2026-08-30;P-0139;Творчество;sbp;reported;0;0
+2026-08-31;P-0069;Рюкзаки;personal;reported;0;0
+2026-08-31;P-0086;Школьная форма;sbp;reported;0;0
+2026-09-02;P-0151;Школьная форма;marketplace;reported;0;0
+2026-09-02;P-0165;Рюкзаки;sbp;donation;2820;0
+2026-09-03;P-0042;Рюкзаки;sbp;donation;2600;0
+2026-09-04;P-0038;Творчество;sbp;delivered;0;1
+2026-09-04;P-0116;Школьная форма;sbp;donation;3140;0
+2026-09-04;P-0165;Рюкзаки;sbp;purchase;2820;0
+2026-09-05;P-0024;Рюкзаки;sbp;donation;2680;0
+2026-09-05;P-0038;Творчество;sbp;reported;0;0
+2026-09-05;P-0124;Канцелярия;sbp;donation;300;0
+2026-09-06;P-0024;Рюкзаки;sbp;purchase;2680;0
+2026-09-06;P-0056;Рюкзаки;sbp;donation;900;0
+2026-09-06;P-0064;Обувь;personal;accepted;0;1
+2026-09-06;P-0135;Рюкзаки;sbp;donation;1200;0
+2026-09-06;P-0147;Канцелярия;sbp;donation;350;0
+2026-09-06;P-0165;Рюкзаки;sbp;delivered;0;1
+2026-09-07;P-0009;Школьная форма;sbp;donation;1850;0
+2026-09-07;P-0124;Канцелярия;sbp;donation;430;0
+2026-09-07;P-0133;Канцелярия;marketplace;accepted;0;1
+2026-09-08;P-0116;Школьная форма;sbp;purchase;3140;0
+2026-09-08;P-0133;Канцелярия;marketplace;delivered;0;1
+2026-09-08;P-0165;Рюкзаки;sbp;reported;0;0
+2026-09-09;P-0024;Рюкзаки;sbp;delivered;0;1
+2026-09-09;P-0039;Школьная форма;sbp;donation;2340;0
+2026-09-10;P-0042;Рюкзаки;sbp;donation;3120;0
+2026-09-10;P-0064;Обувь;personal;delivered;0;1
+2026-09-10;P-0124;Канцелярия;sbp;purchase;730;0
+2026-09-10;P-0131;Творчество;sbp;donation;910;0
+2026-09-11;P-0012;Канцелярия;marketplace;accepted;0;1
+2026-09-11;P-0039;Школьная форма;sbp;purchase;2340;0
+2026-09-11;P-0042;Рюкзаки;sbp;purchase;5720;0
+2026-09-11;P-0056;Рюкзаки;sbp;donation;1090;0
+2026-09-11;P-0092;Канцелярия;marketplace;accepted;0;2
+2026-09-11;P-0133;Канцелярия;marketplace;reported;0;0
+2026-09-12;P-0116;Школьная форма;sbp;delivered;0;1
+2026-09-12;P-0135;Рюкзаки;sbp;donation;1510;0
+2026-09-13;P-0009;Школьная форма;sbp;donation;2310;0
+2026-09-13;P-0024;Рюкзаки;sbp;reported;0;0
+2026-09-13;P-0064;Обувь;personal;reported;0;0
+2026-09-13;P-0131;Творчество;sbp;purchase;910;0
+2026-09-13;P-0147;Канцелярия;sbp;donation;520;0
+2026-09-14;P-0009;Школьная форма;sbp;purchase;4160;0
+2026-09-14;P-0106;Творчество;marketplace;accepted;0;1
+2026-09-14;P-0124;Канцелярия;sbp;delivered;0;1
+2026-09-14;P-0135;Рюкзаки;sbp;purchase;2710;0
+2026-09-15;P-0016;Рюкзаки;sbp;donation;2080;0
+2026-09-15;P-0056;Рюкзаки;sbp;purchase;1990;0
+2026-09-15;P-0106;Творчество;marketplace;delivered;0;1
+2026-09-15;P-0116;Школьная форма;sbp;reported;0;0
+2026-09-15;P-0131;Творчество;sbp;delivered;0;1
+2026-09-15;P-0147;Канцелярия;sbp;purchase;870;0
+2026-09-16;P-0016;Рюкзаки;sbp;purchase;2080;0
+2026-09-16;P-0106;Творчество;marketplace;reported;0;0
+2026-09-17;P-0012;Канцелярия;marketplace;delivered;0;1
+2026-09-17;P-0039;Школьная форма;sbp;delivered;0;1
+2026-09-17;P-0092;Канцелярия;marketplace;delivered;0;2
+2026-09-17;P-0124;Канцелярия;sbp;reported;0;0
+2026-09-18;P-0009;Школьная форма;sbp;delivered;0;1
+2026-09-18;P-0042;Рюкзаки;sbp;delivered;0;2
+2026-09-18;P-0131;Творчество;sbp;reported;0;0
+2026-09-19;P-0042;Рюкзаки;sbp;reported;0;0
+2026-09-19;P-0046;Творчество;marketplace;accepted;0;1
+2026-09-19;P-0123;Школьная форма;sbp;donation;1200;0
+2026-09-19;P-0135;Рюкзаки;sbp;delivered;0;1
+2026-09-20;P-0039;Школьная форма;sbp;reported;0;0
+2026-09-20;P-0056;Рюкзаки;sbp;delivered;0;1
+2026-09-21;P-0009;Школьная форма;sbp;reported;0;0
+2026-09-21;P-0012;Канцелярия;marketplace;reported;0;0
+2026-09-22;P-0047;Обувь;sbp;donation;1400;0
+2026-09-22;P-0135;Рюкзаки;sbp;reported;0;0
+2026-09-22;P-0147;Канцелярия;sbp;delivered;0;1
+2026-09-23;P-0056;Рюкзаки;sbp;reported;0;0
+2026-09-25;P-0031;Школьная форма;personal;accepted;0;2
+2026-09-26;P-0046;Творчество;marketplace;delivered;0;1
+2026-09-26;P-0147;Канцелярия;sbp;reported;0;0
+2026-09-27;P-0047;Обувь;sbp;donation;1750;0
+2026-09-29;P-0031;Школьная форма;personal;delivered;0;2
+2026-09-29;P-0046;Творчество;marketplace;reported;0;0
+2026-10-01;P-0018;Канцелярия;sbp;donation;200;0
+2026-10-02;P-0031;Школьная форма;personal;reported;0;0
+2026-10-02;P-0047;Обувь;sbp;purchase;3150;0
+2026-10-03;P-0073;Канцелярия;sbp;donation;400;0
+2026-10-05;P-0041;Канцелярия;personal;accepted;0;1
+2026-10-05;P-0077;Творчество;marketplace;accepted;0;1
+2026-10-06;P-0041;Канцелярия;personal;delivered;0;1
+2026-10-06;P-0047;Обувь;sbp;delivered;0;1
+2026-10-06;P-0087;Обувь;sbp;donation;900;0
+2026-10-06;P-0132;Школьная форма;personal;accepted;0;2
+2026-10-07;P-0047;Обувь;sbp;reported;0;0
+2026-10-07;P-0132;Школьная форма;personal;delivered;0;2
+2026-10-08;P-0032;Рюкзаки;sbp;donation;1650;0
+2026-10-08;P-0041;Канцелярия;personal;reported;0;0
+2026-10-08;P-0096;Обувь;sbp;donation;1350;0
+2026-10-08;P-0121;Школьная форма;sbp;donation;1700;0
+2026-10-09;P-0029;Канцелярия;personal;accepted;0;1
+2026-10-09;P-0073;Канцелярия;sbp;donation;500;0
+2026-10-10;P-0077;Творчество;marketplace;delivered;0;1
+2026-10-11;P-0087;Обувь;sbp;donation;1100;0
+2026-10-11;P-0132;Школьная форма;personal;reported;0;0
+2026-10-12;P-0101;Школьная форма;marketplace;accepted;0;1
+2026-10-13;P-0077;Творчество;marketplace;reported;0;0
+2026-10-14;P-0021;Канцелярия;personal;accepted;0;1
+2026-10-14;P-0073;Канцелярия;sbp;purchase;900;0
+2026-10-14;P-0089;Канцелярия;marketplace;accepted;0;1
+2026-10-15;P-0029;Канцелярия;personal;delivered;0;1
+2026-10-15;P-0032;Рюкзаки;sbp;donation;2030;0
+2026-10-15;P-0087;Обувь;sbp;purchase;2000;0
+2026-10-15;P-0091;Обувь;sbp;donation;1200;0
+2026-10-15;P-0101;Школьная форма;marketplace;delivered;0;1
+2026-10-16;P-0021;Канцелярия;personal;delivered;0;1
+2026-10-16;P-0062;Школьная форма;marketplace;accepted;0;1
+2026-10-16;P-0085;Творчество;sbp;donation;1060;0
+2026-10-17;P-0101;Школьная форма;marketplace;reported;0;0
+2026-10-18;P-0021;Канцелярия;personal;reported;0;0
+2026-10-18;P-0085;Творчество;sbp;purchase;1060;0
+2026-10-18;P-0087;Обувь;sbp;delivered;0;1
+2026-10-18;P-0126;Рюкзаки;personal;accepted;0;1
+2026-10-19;P-0032;Рюкзаки;sbp;purchase;3680;0
+2026-10-19;P-0073;Канцелярия;sbp;delivered;0;1
+2026-10-19;P-0122;Творчество;marketplace;accepted;0;1
+2026-10-20;P-0048;Творчество;personal;accepted;0;1
+2026-10-20;P-0065;Обувь;sbp;donation;2850;0
+2026-10-21;P-0073;Канцелярия;sbp;reported;0;0
+2026-10-21;P-0087;Обувь;sbp;reported;0;0
+2026-10-21;P-0089;Канцелярия;marketplace;delivered;0;1
+2026-10-21;P-0091;Обувь;sbp;donation;1510;0
+2026-10-22;P-0085;Творчество;sbp;delivered;0;1
+2026-10-22;P-0141;Канцелярия;personal;accepted;0;2
+2026-10-23;P-0122;Творчество;marketplace;delivered;0;1
+2026-10-23;P-0126;Рюкзаки;personal;delivered;0;1
+2026-10-24;P-0091;Обувь;sbp;purchase;2710;0
+2026-10-25;P-0065;Обувь;sbp;donation;3430;0
+2026-10-25;P-0089;Канцелярия;marketplace;reported;0;0
+2026-10-25;P-0122;Творчество;marketplace;reported;0;0
+2026-10-27;P-0010;Канцелярия;marketplace;accepted;0;1
+2026-10-27;P-0126;Рюкзаки;personal;reported;0;0
+2026-10-27;P-0141;Канцелярия;personal;delivered;0;2
+2026-10-29;P-0010;Канцелярия;marketplace;delivered;0;1
+2026-10-30;P-0065;Обувь;sbp;purchase;6280;0
+2026-10-30;P-0091;Обувь;sbp;delivered;0;1
+2026-10-31;P-0091;Обувь;sbp;reported;0;0
+2026-10-31;P-0141;Канцелярия;personal;reported;0;0
+2026-11-01;P-0010;Канцелярия;marketplace;reported;0;0
+2026-11-06;P-0058;Школьная форма;marketplace;accepted;0;1
+2026-11-06;P-0065;Обувь;sbp;delivered;0;2
+2026-11-07;P-0058;Школьная форма;marketplace;delivered;0;1
+2026-11-09;P-0065;Обувь;sbp;reported;0;0
+2026-11-10;P-0058;Школьная форма;marketplace;reported;0;0
+2026-11-12;P-0066;Школьная форма;sbp;donation;1550;0
+2026-11-12;P-0134;Школьная форма;sbp;donation;1700;0
+2026-11-13;P-0066;Школьная форма;sbp;donation;1960;0
+2026-11-14;P-0019;Рюкзаки;marketplace;accepted;0;2
+2026-11-16;P-0066;Школьная форма;sbp;purchase;3510;0
+2026-11-17;P-0111;Обувь;sbp;donation;2550;0
+2026-11-18;P-0019;Рюкзаки;marketplace;delivered;0;2
+2026-11-18;P-0033;Школьная форма;marketplace;accepted;0;1
+2026-11-18;P-0134;Школьная форма;sbp;donation;2070;0
+2026-11-19;P-0019;Рюкзаки;marketplace;reported;0;0
+2026-11-19;P-0033;Школьная форма;marketplace;delivered;0;1
+2026-11-19;P-0111;Обувь;sbp;donation;3150;0
+2026-11-19;P-0158;Обувь;personal;accepted;0;1
+2026-11-20;P-0068;Творчество;marketplace;accepted;0;1
+2026-11-20;P-0134;Школьная форма;sbp;purchase;3770;0
+2026-11-21;P-0036;Школьная форма;personal;accepted;0;1
+2026-11-21;P-0066;Школьная форма;sbp;delivered;0;1
+2026-11-21;P-0112;Канцелярия;sbp;donation;820;0
+2026-11-21;P-0158;Обувь;personal;delivered;0;1
+2026-11-22;P-0033;Школьная форма;marketplace;reported;0;0
+2026-11-22;P-0134;Школьная форма;sbp;delivered;0;1

@@ -1,0 +1,172 @@
+:root {
+    color-scheme: light;
+    --page: #f5f3fa;
+    --ink: #271d3e;
+    --muted: #635a74;
+    --accent: #653bb6;
+    --line: #e8e0f1;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    font-size: 16px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    background: var(--page);
+    color: var(--ink);
+}
+
+.dashboard {
+    display: grid;
+    gap: 1.2rem;
+    max-width: 1250px;
+    margin: 0 auto;
+    padding: 1.65rem clamp(.85rem, 3vw, 2.3rem) 3rem;
+}
+
+.page-header {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    padding: 2.25rem clamp(1.2rem, 5vw, 3.4rem);
+    border-radius: 1.4rem;
+    background: linear-gradient(115deg, #30215e, #573899 62%, #704cbd);
+    color: #fff;
+}
+
+.page-header::after {
+    position: absolute;
+    z-index: -1;
+    right: -8rem;
+    bottom: -18rem;
+    width: 30rem;
+    aspect-ratio: 1;
+    border: 1px solid #fff4;
+    border-radius: 50%;
+    box-shadow: 0 0 0 2rem #fff1, 0 0 0 4rem #fff1, 0 0 0 6rem #fff1;
+    content: '';
+}
+
+.page-header h1 {
+    margin: 0;
+    font-size: clamp(2.1rem, 5vw, 3.85rem);
+    font-weight: 750;
+    letter-spacing: -.055em;
+    line-height: 1.06;
+}
+
+.page-header p {
+    max-width: 38ch;
+    margin: .72rem 0 0;
+    color: #f1eaff;
+    font-size: 1.08rem;
+    line-height: 1.45;
+}
+
+.panel, .metric {
+    min-width: 0;
+    border: 1px solid var(--line);
+    border-radius: 1rem;
+    background: #fff;
+    box-shadow: 0 4px 15px #31234d08;
+}
+
+.panel { padding: 1.15rem 1.25rem; }
+
+.panel h2 {
+    margin: 0;
+    font-size: 1.1rem;
+    line-height: 1.35;
+}
+
+.controls, .chart-panel, .summary-panel { display: grid; gap: .85rem; }
+
+.file-actions, .file-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .45rem 1.15rem;
+}
+
+button.upload-button {
+    padding: .65rem 1rem;
+    border: 1px solid transparent;
+    border-radius: .6rem;
+    background: var(--accent);
+    color: #fff;
+    cursor: pointer;
+    font: inherit;
+    font-weight: 650;
+}
+
+button.upload-button:hover { background: #543198; }
+
+.sample-link {
+    color: #543198;
+    font-size: .9rem;
+    font-weight: 600;
+    text-underline-offset: .2em;
+}
+
+:is(a, button):focus-visible {
+    outline: 2px solid #6e41bf;
+    outline-offset: 4px;
+}
+
+.filters {
+    display: grid;
+    grid-template-columns: minmax(10rem, .92fr) minmax(0, 1fr) minmax(0, 1fr);
+    gap: .75rem;
+}
+
+.filters > div { min-width: 0; }
+.filters label {
+    display: block;
+    margin-bottom: .32rem;
+    font-size: .9rem;
+    font-weight: 650;
+}
+
+.filters .Select-control { border: 1px solid #d9cbe7; border-radius: .55rem; }
+.filters .Select-placeholder, .filters .Select-input input { color: var(--muted); }
+.filters .Select--multi .Select-value { border-color: #e1d4f0; background: #f3edff; color: #4b2a86; }
+
+#upload-status, #selection-status { color: var(--muted); font-size: .88rem; overflow-wrap: anywhere; }
+#upload-status.upload-error { color: #a12b37; }
+#upload-status.upload-success { color: #326255; }
+#selection-status:empty { display: none; }
+
+.metrics, .charts { display: grid; gap: 1rem; }
+.metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.charts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+
+.metric {
+    padding: 1rem 1.15rem;
+    border-top: 3px solid #8e6acb;
+}
+
+.metric:nth-child(2) { border-top-color: #d4753a; }
+.metric:nth-child(3) { border-top-color: #528f91; }
+.metric:nth-child(4) { border-top-color: #6b83c5; }
+.metric p { margin: 0 0 .38rem; color: var(--muted); font-size: .9rem; }
+.metric strong {
+    font-size: clamp(1.35rem, 3vw, 2rem);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -.035em;
+    overflow-wrap: anywhere;
+}
+
+.chart-panel > div { min-width: 0; }
+#category-summary { overflow: auto; }
+
+@media (max-width: 780px) {
+    .filters, .charts { grid-template-columns: 1fr; }
+    .metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 420px) {
+    .dashboard { padding-top: .85rem; }
+    .panel, .metric { padding: .85rem; }
+    .metrics { gap: .65rem; }
+}
