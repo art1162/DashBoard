@@ -80,7 +80,13 @@ body {
     line-height: 1.35;
 }
 
-.controls, .chart-panel, .summary-panel { display: grid; gap: .85rem; }
+.controls, .summary-panel { display: grid; gap: .85rem; }
+
+.chart-panel {
+    display: flex;
+    flex-direction: column;
+    gap: .85rem;
+}
 
 .file-actions, .file-buttons {
     display: flex;
@@ -157,7 +163,13 @@ button.upload-button:hover { background: #543198; }
     overflow-wrap: anywhere;
 }
 
-.chart-panel > div { min-width: 0; }
+.chart-plot {
+    flex: none;
+    width: 100%;
+    min-width: 0;
+    height: 20rem;
+}
+
 #category-summary { overflow: auto; }
 
 @media (max-width: 780px) {
@@ -169,4 +181,5 @@ button.upload-button:hover { background: #543198; }
     .dashboard { padding-top: .85rem; }
     .panel, .metric { padding: .85rem; }
     .metrics { gap: .65rem; }
+    .chart-plot { height: 19rem; }
 }

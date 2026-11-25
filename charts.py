@@ -5,7 +5,7 @@ COLORS = ("#6d45be", "#c96129", "#35868b", "#5278cb", "#95578b", "#648548")
 
 def chart_base():
     figure = go.Figure()
-    figure.update_layout(template="plotly_white", height=300, margin=dict(l=60, r=20, t=18, b=50),
+    figure.update_layout(template="plotly_white", margin=dict(l=60, r=16, t=24, b=50),
                          separators=", ", colorway=COLORS, hoverlabel=dict(namelength=-1),
                          font=dict(family="Segoe UI, sans-serif", color="#524760"))
     figure.update_xaxes(automargin=True, gridcolor="#efeaf5")
@@ -28,11 +28,14 @@ def cash_chart(weeks):
     figure = chart_base()
     for event, label in (("donation", "Взносы по СБП"), ("purchase", "Закупки фонда")):
         figure.add_scatter(x=list(weeks), y=[row[event] / 100 for row in weeks.values()],
-                           mode="lines+markers", name=label,
-                           hovertemplate="Неделя с %{x|%d.%m.%Y}<br>%{y:,.2f} ₽")
-    figure.update_xaxes(tickformat="%d.%m.%y")
-    figure.update_yaxes(ticksuffix=" ₽", rangemode="tozero")
-    figure.update_layout(legend=dict(orientation="h", x=0, y=1.14), margin=dict(t=44))
+                           mode="lines+markers", name=label, line=dict(width=2.5),
+                           marker=dict(size=6), hovertemplate="%{y:,.2f} ₽")
+    figure.update_xaxes(tickformat="%d.%m.%y", nticks=5,
+                        unifiedhovertitle_text="Неделя с %{x|%d.%m.%Y}")
+    figure.update_yaxes(tickformat=",.0f", ticksuffix=" ₽", rangemode="tozero", nticks=6)
+    figure.update_layout(hovermode="x unified", margin=dict(b=76),
+                         legend=dict(orientation="h", x=0.5, xanchor="center",
+                                     y=0, yanchor="bottom", yref="container"))
     return figure
 
 
@@ -57,7 +60,7 @@ def donation_chart(donations):
                          marker=dict(line=dict(width=1, color="#fff")),
                          hovertemplate="Размер взноса: %{x} ₽<br>Операций: %{y}<extra></extra>")
     figure.update_xaxes(title="Размер взноса, ₽")
-    figure.update_yaxes(title="Количество взносов", rangemode="tozero", dtick=1)
+    figure.update_yaxes(title="Количество взносов", rangemode="tozero", nticks=6)
     return figure
 
 

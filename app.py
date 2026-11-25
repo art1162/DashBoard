@@ -31,8 +31,11 @@ METRICS = (
 def chart_panel(graph_id, title):
     return html.Section([
         html.H2(title),
-        dcc.Graph(id=graph_id, figure=empty_figure(), responsive=True,
-                  config={"displaylogo": False, "modeBarButtonsToRemove": ["select2d", "lasso2d"]}),
+        html.Div(
+            dcc.Graph(id=graph_id, figure=empty_figure(), responsive=True,
+                      config={"displaylogo": False, "modeBarButtonsToRemove": ["select2d", "lasso2d"]}),
+            className="chart-plot",
+        ),
     ], className=f"panel chart-panel {graph_id}")
 
 
